@@ -1,0 +1,1001 @@
+Date,Product,Region,Sales,Revenue
+2025-03-19,Tablet,East,6,288978
+2025-02-14,Smartwatch,South,8,120440
+2025-07-29,Smartwatch,East,12,99660
+2025-10-26,Headphones,South,8,25808
+2025-02-28,Mobile Phone,West,35,1006670
+2025-09-12,Mobile Phone,North,48,690432
+2025-03-21,Smartwatch,South,15,85995
+2025-09-30,Mobile Phone,West,12,225060
+2025-06-26,Tablet,West,1,33245
+2025-05-07,Tablet,West,30,976170
+2025-01-18,Headphones,West,49,257397
+2025-08-05,Mobile Phone,West,44,1035496
+2025-10-08,Smartwatch,East,31,207328
+2025-08-03,Smartwatch,North,23,128869
+2025-07-28,Headphones,North,38,119624
+2025-09-15,Laptop,West,45,3967515
+2025-04-23,Laptop,South,23,1052273
+2025-02-24,Laptop,East,8,887120
+2025-10-31,Smartwatch,West,28,252140
+2025-09-24,Smartwatch,West,39,550290
+2025-02-01,Smartwatch,West,36,639576
+2025-02-13,Laptop,East,19,949696
+2025-10-20,Laptop,West,18,1906686
+2025-07-17,Smartwatch,East,14,303436
+2025-04-15,Tablet,West,28,1392916
+2025-03-11,Smartwatch,North,37,869204
+2025-05-10,Tablet,North,23,660905
+2025-04-04,Headphones,East,30,59370
+2025-09-23,Mobile Phone,North,8,86720
+2025-07-16,Tablet,North,36,1167120
+2025-03-03,Mobile Phone,North,43,551733
+2025-08-10,Laptop,North,11,1449778
+2025-02-15,Smartwatch,West,25,268125
+2025-09-18,Tablet,North,7,301826
+2025-02-09,Laptop,West,34,3844856
+2025-06-19,Mobile Phone,East,22,285648
+2025-09-22,Smartwatch,North,14,116186
+2025-02-05,Tablet,East,44,1241328
+2025-01-22,Headphones,North,11,60687
+2025-02-03,Laptop,South,5,573290
+2025-06-12,Tablet,South,42,1627122
+2025-05-19,Smartwatch,South,14,201446
+2025-04-20,Laptop,South,45,3754845
+2025-04-15,Smartwatch,South,3,16872
+2025-05-26,Headphones,East,39,74256
+2025-04-14,Smartwatch,North,38,302214
+2025-08-08,Headphones,South,16,107712
+2025-09-12,Smartwatch,East,28,518560
+2025-07-23,Tablet,North,29,878526
+2025-08-06,Headphones,East,45,84375
+2025-07-26,Laptop,North,39,1559220
+2025-02-07,Headphones,West,33,99924
+2025-06-10,Mobile Phone,West,34,781286
+2025-01-15,Headphones,South,14,33026
+2025-10-29,Headphones,East,27,93960
+2025-10-27,Headphones,South,48,120288
+2025-04-25,Laptop,West,17,873137
+2025-04-23,Headphones,West,29,188065
+2025-03-24,Smartwatch,West,44,377608
+2025-03-20,Tablet,West,12,302508
+2025-10-15,Laptop,East,14,2090858
+2025-02-14,Mobile Phone,East,30,722670
+2025-01-07,Smartwatch,North,4,40756
+2025-03-05,Headphones,North,40,250960
+2025-08-21,Headphones,South,11,46838
+2025-04-15,Headphones,West,11,59202
+2025-06-12,Tablet,North,15,586320
+2025-09-24,Tablet,North,4,120380
+2025-10-04,Laptop,East,42,5623380
+2025-10-17,Headphones,North,23,37950
+2025-08-25,Laptop,West,30,1630140
+2025-05-10,Mobile Phone,East,26,302562
+2025-07-21,Headphones,South,39,162981
+2025-01-02,Laptop,East,4,212344
+2025-02-15,Smartwatch,West,48,566784
+2025-04-02,Headphones,East,24,49152
+2025-02-25,Headphones,East,27,162108
+2025-02-23,Laptop,North,46,6826538
+2025-03-26,Tablet,South,36,443052
+2025-05-20,Smartwatch,East,12,229188
+2025-09-10,Mobile Phone,East,25,741525
+2025-08-16,Tablet,East,25,666625
+2025-09-05,Headphones,South,22,115896
+2025-07-04,Mobile Phone,West,36,853200
+2025-02-20,Headphones,North,40,144320
+2025-01-18,Headphones,East,29,70760
+2025-02-07,Smartwatch,South,34,660314
+2025-07-01,Headphones,West,39,267579
+2025-03-12,Tablet,North,32,520160
+2025-08-12,Tablet,South,11,310728
+2025-06-27,Tablet,East,24,668904
+2025-02-04,Mobile Phone,East,49,575603
+2025-10-18,Tablet,North,33,1360821
+2025-05-20,Mobile Phone,North,4,46224
+2025-07-18,Headphones,West,13,63622
+2025-01-29,Headphones,South,44,289916
+2025-08-22,Tablet,South,22,364870
+2025-02-08,Laptop,South,42,3019380
+2025-08-25,Laptop,South,42,1286040
+2025-08-08,Headphones,West,31,185659
+2025-06-02,Smartwatch,North,41,533779
+2025-08-29,Headphones,East,8,14584
+2025-10-06,Laptop,South,32,3544768
+2025-07-20,Headphones,North,48,238176
+2025-03-09,Laptop,East,40,2555040
+2025-05-04,Headphones,West,38,99598
+2025-09-24,Mobile Phone,South,39,763035
+2025-10-25,Mobile Phone,West,12,298920
+2025-06-02,Tablet,South,17,250427
+2025-06-17,Laptop,West,25,2409700
+2025-07-23,Smartwatch,South,43,577791
+2025-06-02,Tablet,North,24,803208
+2025-04-28,Smartwatch,North,32,551680
+2025-07-03,Headphones,South,34,81940
+2025-02-23,Smartwatch,North,12,261600
+2025-10-10,Tablet,North,20,789260
+2025-05-24,Tablet,North,12,589512
+2025-03-29,Smartwatch,West,4,24736
+2025-10-05,Laptop,East,16,544352
+2025-02-08,Smartwatch,West,2,28738
+2025-06-19,Headphones,East,50,308100
+2025-10-22,Mobile Phone,West,9,258633
+2025-01-29,Headphones,East,33,198132
+2025-03-01,Laptop,South,31,1191547
+2025-05-01,Mobile Phone,North,49,1320550
+2025-08-22,Mobile Phone,South,41,497740
+2025-08-14,Laptop,North,11,597069
+2025-05-11,Mobile Phone,South,40,711840
+2025-03-15,Headphones,West,12,79260
+2025-05-13,Mobile Phone,South,4,89120
+2025-09-02,Headphones,West,9,30537
+2025-02-14,Laptop,South,15,1891560
+2025-10-09,Mobile Phone,North,39,421980
+2025-04-08,Laptop,South,13,392717
+2025-03-29,Smartwatch,North,50,993700
+2025-01-25,Headphones,East,5,14220
+2025-10-20,Mobile Phone,North,27,387207
+2025-01-08,Laptop,South,45,1828935
+2025-03-17,Laptop,South,26,2666534
+2025-01-02,Mobile Phone,South,49,557130
+2025-04-29,Smartwatch,South,14,200018
+2025-04-29,Smartwatch,East,8,71688
+2025-07-23,Tablet,South,37,758056
+2025-04-29,Tablet,East,38,465196
+2025-03-12,Mobile Phone,South,17,368883
+2025-03-24,Mobile Phone,East,25,401675
+2025-03-13,Smartwatch,West,38,882664
+2025-10-25,Smartwatch,South,41,551737
+2025-07-04,Headphones,East,43,196080
+2025-07-23,Laptop,North,29,3140874
+2025-06-02,Headphones,South,13,33553
+2025-10-26,Laptop,East,33,3278847
+2025-05-08,Headphones,North,10,59990
+2025-03-19,Smartwatch,North,4,73536
+2025-06-30,Smartwatch,North,10,233050
+2025-02-05,Mobile Phone,East,17,279565
+2025-03-12,Laptop,South,8,1019560
+2025-05-25,Headphones,South,44,287144
+2025-08-27,Laptop,North,26,2085538
+2025-08-30,Tablet,East,46,1856974
+2025-02-25,Laptop,East,31,1603909
+2025-05-31,Headphones,East,49,234906
+2025-01-18,Laptop,North,22,2392962
+2025-06-03,Laptop,East,13,1144780
+2025-02-14,Mobile Phone,West,48,498864
+2025-05-06,Mobile Phone,East,31,671398
+2025-01-23,Headphones,East,3,10983
+2025-07-22,Mobile Phone,North,17,341717
+2025-02-03,Mobile Phone,South,40,363800
+2025-09-29,Laptop,North,6,602358
+2025-02-23,Mobile Phone,North,29,407595
+2025-09-06,Laptop,South,9,761688
+2025-02-18,Mobile Phone,North,26,685958
+2025-06-24,Headphones,East,16,27024
+2025-07-01,Smartwatch,South,42,295008
+2025-04-09,Laptop,West,31,2454487
+2025-08-06,Headphones,South,26,62582
+2025-04-01,Tablet,South,25,429275
+2025-01-30,Mobile Phone,South,17,480182
+2025-10-26,Laptop,South,50,6166100
+2025-01-02,Tablet,West,46,1048938
+2025-06-08,Tablet,West,22,803110
+2025-07-06,Mobile Phone,North,14,130074
+2025-08-04,Mobile Phone,South,25,308925
+2025-02-21,Smartwatch,North,40,332360
+2025-01-05,Laptop,North,34,2707692
+2025-01-11,Headphones,East,10,22470
+2025-07-29,Mobile Phone,East,21,289947
+2025-04-29,Headphones,West,35,193515
+2025-04-16,Mobile Phone,West,40,648440
+2025-03-08,Laptop,South,36,5264136
+2025-09-02,Tablet,North,44,879516
+2025-04-14,Tablet,East,13,206921
+2025-02-08,Tablet,West,31,1532361
+2025-08-26,Headphones,East,22,153076
+2025-09-22,Smartwatch,South,3,59130
+2025-08-23,Laptop,West,15,2055510
+2025-02-23,Laptop,East,1,59948
+2025-07-18,Tablet,South,49,1671880
+2025-05-08,Tablet,South,34,804202
+2025-03-18,Smartwatch,South,17,183583
+2025-10-10,Headphones,West,37,87394
+2025-02-06,Mobile Phone,West,9,181557
+2025-05-09,Headphones,East,40,143760
+2025-10-27,Tablet,North,31,752742
+2025-10-03,Tablet,South,43,1258223
+2025-06-22,Tablet,East,45,1887570
+2025-09-21,Laptop,East,14,1283058
+2025-01-24,Headphones,North,34,70856
+2025-06-09,Laptop,West,48,2357520
+2025-02-05,Tablet,East,42,688926
+2025-10-13,Headphones,South,29,81490
+2025-06-15,Mobile Phone,South,4,118980
+2025-04-23,Smartwatch,South,40,605920
+2025-04-10,Headphones,East,44,235664
+2025-10-31,Tablet,West,46,612858
+2025-02-03,Smartwatch,North,29,424705
+2025-09-13,Tablet,West,47,1169830
+2025-06-19,Tablet,South,1,30215
+2025-09-07,Laptop,West,42,5138700
+2025-06-16,Tablet,South,42,1493814
+2025-02-19,Headphones,East,5,11070
+2025-06-17,Headphones,East,24,52200
+2025-07-27,Tablet,East,20,424480
+2025-02-02,Laptop,West,16,540592
+2025-07-23,Tablet,South,32,1103872
+2025-05-18,Mobile Phone,North,17,420138
+2025-07-28,Smartwatch,West,40,713560
+2025-05-02,Headphones,North,38,174154
+2025-08-29,Mobile Phone,North,48,389904
+2025-05-14,Mobile Phone,East,36,311040
+2025-07-27,Mobile Phone,East,34,893282
+2025-08-29,Mobile Phone,West,19,425600
+2025-04-16,Tablet,South,21,758079
+2025-08-22,Smartwatch,East,25,535975
+2025-06-09,Smartwatch,North,29,242643
+2025-06-29,Mobile Phone,South,2,57944
+2025-07-24,Mobile Phone,South,19,185402
+2025-05-06,Smartwatch,East,6,51852
+2025-10-21,Tablet,West,31,332630
+2025-04-28,Laptop,South,31,2761914
+2025-01-12,Mobile Phone,East,38,1037742
+2025-06-10,Smartwatch,North,42,607362
+2025-10-09,Tablet,South,17,368441
+2025-04-09,Tablet,West,17,587962
+2025-09-06,Smartwatch,North,22,310816
+2025-09-23,Mobile Phone,East,31,300669
+2025-08-24,Laptop,South,1,107226
+2025-03-23,Headphones,East,49,247401
+2025-05-02,Headphones,West,26,124280
+2025-04-01,Laptop,South,23,2733688
+2025-02-13,Tablet,North,39,1259700
+2025-04-20,Headphones,West,5,22890
+2025-05-19,Headphones,North,35,69685
+2025-06-09,Smartwatch,East,28,432544
+2025-03-20,Tablet,South,36,1337580
+2025-03-08,Smartwatch,East,45,286470
+2025-09-01,Mobile Phone,North,12,319680
+2025-01-21,Headphones,South,31,211358
+2025-05-06,Mobile Phone,North,28,292404
+2025-07-25,Tablet,North,19,460522
+2025-05-28,Mobile Phone,South,12,263988
+2025-02-13,Headphones,East,48,250128
+2025-08-19,Smartwatch,North,44,247984
+2025-09-01,Tablet,North,24,618336
+2025-05-19,Tablet,South,36,1552104
+2025-10-20,Smartwatch,North,15,210855
+2025-06-28,Mobile Phone,East,27,295704
+2025-10-13,Headphones,West,34,83402
+2025-01-26,Smartwatch,East,19,384807
+2025-06-28,Headphones,South,35,161140
+2025-01-03,Smartwatch,West,4,28300
+2025-08-01,Mobile Phone,South,49,1084419
+2025-04-05,Smartwatch,South,31,679923
+2025-10-09,Smartwatch,West,18,426186
+2025-08-13,Headphones,West,47,230300
+2025-01-03,Mobile Phone,North,47,1178619
+2025-04-22,Mobile Phone,North,38,530328
+2025-08-15,Headphones,South,36,103572
+2025-09-08,Headphones,East,32,167136
+2025-01-17,Tablet,South,18,535374
+2025-05-19,Smartwatch,South,34,804678
+2025-06-23,Laptop,South,42,4165392
+2025-03-27,Smartwatch,East,19,456076
+2025-04-25,Headphones,East,14,48216
+2025-02-14,Smartwatch,South,23,264477
+2025-03-01,Laptop,West,36,5138496
+2025-01-10,Laptop,South,36,1608840
+2025-06-15,Laptop,North,43,1706756
+2025-07-09,Headphones,North,30,189690
+2025-08-04,Tablet,East,25,920175
+2025-05-30,Smartwatch,East,22,281468
+2025-05-29,Smartwatch,South,15,292245
+2025-08-06,Mobile Phone,West,27,569700
+2025-06-10,Laptop,South,36,1094976
+2025-01-17,Smartwatch,East,46,622288
+2025-06-27,Mobile Phone,East,14,170296
+2025-03-26,Smartwatch,North,22,295152
+2025-09-24,Mobile Phone,North,14,273644
+2025-07-07,Mobile Phone,West,29,763425
+2025-06-08,Mobile Phone,West,3,30891
+2025-04-11,Smartwatch,East,16,147456
+2025-03-02,Laptop,South,27,2283390
+2025-04-30,Mobile Phone,South,43,1133308
+2025-09-28,Mobile Phone,West,45,623025
+2025-03-23,Tablet,West,17,398293
+2025-07-21,Mobile Phone,East,21,545685
+2025-06-07,Mobile Phone,South,39,371787
+2025-02-11,Laptop,North,13,1498484
+2025-04-22,Smartwatch,East,2,45834
+2025-10-31,Smartwatch,East,15,240510
+2025-03-11,Headphones,North,27,61803
+2025-01-03,Tablet,East,1,30722
+2025-06-01,Smartwatch,South,10,75020
+2025-09-30,Laptop,West,20,2402520
+2025-03-26,Smartwatch,East,29,173333
+2025-01-27,Laptop,East,17,1685227
+2025-02-15,Smartwatch,South,35,833700
+2025-05-04,Headphones,North,21,39249
+2025-06-28,Headphones,South,12,22680
+2025-07-23,Laptop,South,15,1586340
+2025-03-19,Laptop,South,39,5308446
+2025-05-25,Headphones,North,37,174973
+2025-03-30,Smartwatch,South,28,684572
+2025-06-26,Tablet,North,2,32800
+2025-10-07,Smartwatch,West,22,490248
+2025-05-21,Smartwatch,North,2,44446
+2025-04-16,Headphones,North,17,110976
+2025-02-03,Mobile Phone,North,25,612375
+2025-09-01,Headphones,East,31,111569
+2025-04-03,Headphones,South,5,17655
+2025-04-02,Headphones,North,46,294262
+2025-05-02,Smartwatch,South,8,150248
+2025-07-24,Tablet,North,45,955260
+2025-01-05,Laptop,East,2,201744
+2025-04-11,Laptop,West,27,2076489
+2025-10-27,Laptop,South,20,1586500
+2025-05-24,Laptop,South,49,3533341
+2025-10-25,Laptop,South,34,4631990
+2025-06-16,Smartwatch,North,6,87708
+2025-06-28,Smartwatch,South,12,153216
+2025-09-23,Laptop,North,50,1737600
+2025-08-25,Smartwatch,West,47,948178
+2025-10-20,Mobile Phone,East,29,468466
+2025-04-21,Tablet,North,20,313020
+2025-06-26,Mobile Phone,West,27,306747
+2025-08-26,Laptop,East,42,2269638
+2025-09-14,Smartwatch,North,45,769320
+2025-02-27,Laptop,East,18,1060218
+2025-04-07,Mobile Phone,North,23,193108
+2025-10-13,Headphones,North,48,99792
+2025-07-04,Headphones,East,31,133424
+2025-02-22,Tablet,East,22,331518
+2025-07-29,Smartwatch,West,49,1023316
+2025-02-10,Tablet,North,34,612714
+2025-06-27,Smartwatch,West,31,488715
+2025-05-08,Headphones,South,37,57202
+2025-04-01,Laptop,South,18,2125296
+2025-03-08,Tablet,North,34,933504
+2025-02-24,Mobile Phone,West,15,185040
+2025-03-31,Headphones,West,45,187515
+2025-08-15,Smartwatch,East,15,98310
+2025-02-10,Mobile Phone,West,23,343229
+2025-07-12,Headphones,West,34,116178
+2025-05-29,Tablet,South,28,321076
+2025-05-25,Tablet,East,20,938600
+2025-07-10,Headphones,West,11,61677
+2025-01-31,Tablet,North,41,1721385
+2025-05-22,Tablet,North,39,1087710
+2025-07-10,Headphones,West,3,13329
+2025-01-03,Laptop,South,16,1646432
+2025-01-21,Laptop,South,39,2281500
+2025-05-30,Headphones,South,40,145240
+2025-01-04,Laptop,East,50,5832800
+2025-01-14,Tablet,East,36,1197144
+2025-05-17,Tablet,North,42,1012746
+2025-09-11,Headphones,South,35,90370
+2025-05-23,Laptop,West,21,1865157
+2025-08-03,Mobile Phone,West,12,328476
+2025-01-10,Headphones,South,17,56338
+2025-10-04,Tablet,West,35,1654240
+2025-01-20,Mobile Phone,West,40,898400
+2025-01-01,Laptop,West,3,106941
+2025-07-01,Headphones,North,36,67932
+2025-03-11,Laptop,North,20,2257800
+2025-07-03,Headphones,West,37,156584
+2025-10-23,Headphones,South,31,156364
+2025-08-29,Tablet,North,6,127278
+2025-08-22,Headphones,East,8,16960
+2025-05-02,Tablet,East,14,514976
+2025-06-21,Laptop,West,31,2924602
+2025-04-18,Smartwatch,East,47,960821
+2025-09-23,Laptop,South,16,498304
+2025-07-11,Tablet,South,42,1847580
+2025-10-19,Smartwatch,North,8,124448
+2025-05-02,Mobile Phone,North,4,88280
+2025-03-20,Tablet,South,25,462200
+2025-04-01,Smartwatch,West,37,812520
+2025-10-26,Tablet,East,44,1639836
+2025-02-07,Mobile Phone,South,29,372331
+2025-03-15,Smartwatch,East,32,506688
+2025-09-23,Headphones,North,39,126165
+2025-01-06,Tablet,West,42,1876098
+2025-03-24,Laptop,West,8,289040
+2025-03-16,Headphones,West,8,13848
+2025-04-11,Laptop,West,41,1335944
+2025-04-20,Headphones,East,2,3850
+2025-06-23,Laptop,South,16,1869312
+2025-02-08,Headphones,South,22,99770
+2025-01-04,Smartwatch,East,9,173790
+2025-01-16,Laptop,West,23,896333
+2025-04-03,Headphones,West,31,138291
+2025-08-02,Headphones,South,38,57646
+2025-08-10,Headphones,South,12,43344
+2025-06-18,Mobile Phone,North,46,368828
+2025-08-08,Mobile Phone,East,5,75320
+2025-03-11,Mobile Phone,South,21,425901
+2025-07-10,Headphones,North,43,78002
+2025-08-29,Laptop,North,31,4393072
+2025-03-03,Laptop,West,47,2098268
+2025-09-22,Smartwatch,South,23,365125
+2025-05-11,Headphones,West,2,10468
+2025-04-11,Smartwatch,West,2,18246
+2025-03-02,Smartwatch,East,48,305568
+2025-01-20,Laptop,East,23,2283601
+2025-07-27,Headphones,South,18,77922
+2025-05-03,Tablet,East,6,60126
+2025-07-17,Tablet,North,36,1083564
+2025-01-20,Smartwatch,East,15,243780
+2025-07-24,Headphones,North,13,73489
+2025-07-25,Tablet,West,35,1518020
+2025-09-13,Smartwatch,North,32,547744
+2025-05-02,Headphones,East,21,41391
+2025-07-21,Smartwatch,West,50,1005100
+2025-08-30,Laptop,North,26,1446952
+2025-01-09,Mobile Phone,South,40,1139200
+2025-05-18,Smartwatch,West,47,839420
+2025-01-20,Tablet,East,5,232120
+2025-04-07,Smartwatch,South,3,66588
+2025-03-29,Laptop,West,7,553007
+2025-09-03,Mobile Phone,South,41,362727
+2025-01-02,Mobile Phone,North,50,1257100
+2025-05-14,Tablet,West,7,245455
+2025-09-17,Tablet,North,11,385891
+2025-06-01,Headphones,North,48,292512
+2025-04-16,Smartwatch,South,33,230835
+2025-04-28,Headphones,East,35,208250
+2025-05-23,Headphones,East,41,197907
+2025-10-22,Mobile Phone,South,41,1089739
+2025-10-26,Mobile Phone,North,46,556140
+2025-01-01,Laptop,North,29,2704453
+2025-04-25,Smartwatch,South,31,198338
+2025-03-10,Mobile Phone,South,13,165438
+2025-10-08,Mobile Phone,South,11,139711
+2025-09-15,Mobile Phone,West,17,136935
+2025-09-25,Tablet,East,13,233740
+2025-05-05,Mobile Phone,North,12,204336
+2025-07-03,Tablet,North,40,1967040
+2025-08-15,Laptop,East,25,1102325
+2025-04-05,Tablet,North,17,459731
+2025-04-10,Laptop,West,1,103037
+2025-03-06,Laptop,South,24,2130816
+2025-08-09,Laptop,East,42,5873238
+2025-10-19,Tablet,South,19,788595
+2025-07-08,Laptop,West,37,2578493
+2025-01-27,Tablet,East,1,30726
+2025-07-12,Laptop,East,45,4949280
+2025-02-10,Mobile Phone,East,4,73080
+2025-01-07,Mobile Phone,North,24,681096
+2025-07-12,Headphones,West,41,152151
+2025-06-30,Laptop,South,16,1329776
+2025-08-01,Headphones,West,35,177835
+2025-10-11,Laptop,North,8,599968
+2025-07-23,Tablet,West,9,209403
+2025-08-07,Headphones,East,44,124124
+2025-05-06,Tablet,East,10,275150
+2025-06-12,Mobile Phone,South,50,439550
+2025-05-21,Smartwatch,East,25,369850
+2025-04-06,Mobile Phone,North,32,272544
+2025-07-16,Tablet,South,10,104890
+2025-04-03,Tablet,South,20,370860
+2025-05-09,Tablet,North,19,273163
+2025-02-25,Laptop,West,9,548739
+2025-08-04,Laptop,West,31,4070455
+2025-10-06,Mobile Phone,West,38,960336
+2025-09-24,Smartwatch,South,22,487564
+2025-09-01,Headphones,North,10,22320
+2025-04-24,Smartwatch,South,34,435608
+2025-03-27,Smartwatch,East,20,477600
+2025-07-28,Laptop,North,15,612030
+2025-10-31,Headphones,South,33,66033
+2025-09-19,Laptop,East,40,1201560
+2025-10-24,Laptop,West,26,2651480
+2025-04-25,Smartwatch,North,20,162520
+2025-10-15,Laptop,North,38,5406678
+2025-03-18,Laptop,West,21,1069278
+2025-09-29,Mobile Phone,East,12,286740
+2025-07-21,Laptop,South,5,233860
+2025-09-26,Headphones,West,2,4310
+2025-06-03,Tablet,East,9,367875
+2025-08-17,Headphones,South,46,174846
+2025-07-30,Mobile Phone,South,37,1096088
+2025-05-19,Headphones,North,15,28560
+2025-01-17,Headphones,South,20,44420
+2025-08-24,Mobile Phone,South,5,115625
+2025-03-03,Headphones,East,9,18711
+2025-10-22,Tablet,West,35,1409415
+2025-01-06,Headphones,East,36,86616
+2025-04-09,Mobile Phone,East,15,242955
+2025-05-15,Headphones,West,10,25730
+2025-01-23,Headphones,East,1,5145
+2025-06-28,Tablet,South,49,1947358
+2025-10-02,Smartwatch,South,18,138384
+2025-09-29,Mobile Phone,East,30,418920
+2025-01-08,Tablet,West,8,301144
+2025-07-13,Laptop,East,26,3857542
+2025-06-19,Tablet,East,15,712545
+2025-10-04,Laptop,South,15,1381065
+2025-05-22,Mobile Phone,West,12,106236
+2025-06-20,Tablet,East,26,447226
+2025-02-07,Mobile Phone,East,17,190859
+2025-02-17,Mobile Phone,East,36,710532
+2025-08-15,Mobile Phone,West,20,222580
+2025-08-17,Headphones,West,46,142278
+2025-04-16,Smartwatch,South,40,866720
+2025-02-11,Headphones,East,34,91426
+2025-03-06,Headphones,West,18,96030
+2025-04-01,Smartwatch,West,9,156195
+2025-10-25,Smartwatch,South,16,163936
+2025-04-24,Tablet,South,10,339980
+2025-09-08,Mobile Phone,North,48,565872
+2025-06-20,Headphones,North,47,239512
+2025-01-14,Tablet,West,40,1114120
+2025-08-02,Smartwatch,North,2,35680
+2025-10-05,Laptop,South,20,1537120
+2025-03-30,Laptop,North,6,698856
+2025-09-29,Tablet,East,15,704415
+2025-10-01,Laptop,West,43,3190213
+2025-02-27,Headphones,South,42,84294
+2025-02-23,Smartwatch,East,13,318513
+2025-01-04,Smartwatch,East,26,152828
+2025-06-23,Mobile Phone,West,20,570500
+2025-01-04,Headphones,East,43,248927
+2025-01-28,Mobile Phone,West,45,774540
+2025-01-29,Laptop,West,39,2456844
+2025-05-12,Mobile Phone,East,19,360886
+2025-05-02,Headphones,South,46,306728
+2025-04-27,Tablet,West,35,680575
+2025-07-03,Laptop,East,45,2006595
+2025-09-06,Laptop,North,11,1618639
+2025-01-26,Tablet,South,34,479298
+2025-09-21,Smartwatch,North,22,405570
+2025-07-12,Laptop,North,43,2947048
+2025-09-13,Smartwatch,North,22,352000
+2025-06-24,Tablet,South,37,1582564
+2025-08-03,Laptop,East,36,3683844
+2025-05-03,Tablet,East,3,48498
+2025-08-27,Headphones,East,22,90838
+2025-08-02,Headphones,East,26,176046
+2025-07-23,Headphones,West,22,89210
+2025-05-11,Headphones,South,22,96118
+2025-06-29,Tablet,East,26,772590
+2025-09-24,Laptop,East,28,1564192
+2025-10-31,Headphones,South,49,267344
+2025-09-17,Smartwatch,North,35,501655
+2025-09-30,Laptop,East,34,4513228
+2025-01-05,Headphones,North,28,53564
+2025-01-06,Smartwatch,West,20,475600
+2025-08-06,Tablet,West,19,539372
+2025-02-26,Mobile Phone,South,16,410672
+2025-02-16,Headphones,West,27,46008
+2025-06-02,Smartwatch,North,48,679440
+2025-04-18,Mobile Phone,South,5,146250
+2025-02-15,Laptop,North,13,1363336
+2025-01-23,Tablet,South,39,1519401
+2025-09-07,Laptop,West,27,1041552
+2025-03-19,Tablet,South,48,1786272
+2025-01-22,Mobile Phone,North,45,861435
+2025-01-22,Laptop,South,12,1551684
+2025-01-22,Mobile Phone,North,33,579018
+2025-07-14,Laptop,South,26,1022632
+2025-04-04,Headphones,North,14,50330
+2025-05-16,Tablet,South,10,230210
+2025-10-07,Smartwatch,East,49,949865
+2025-10-25,Headphones,West,10,33770
+2025-01-28,Mobile Phone,East,25,617650
+2025-01-14,Smartwatch,West,21,439467
+2025-05-01,Smartwatch,West,31,247783
+2025-01-19,Smartwatch,East,46,823032
+2025-08-03,Tablet,North,24,707496
+2025-02-05,Smartwatch,North,42,459354
+2025-09-27,Smartwatch,North,44,806344
+2025-08-03,Mobile Phone,South,36,796536
+2025-08-28,Laptop,North,38,2069176
+2025-04-15,Headphones,West,20,113280
+2025-09-23,Laptop,South,8,1071072
+2025-06-21,Laptop,West,1,130635
+2025-06-24,Headphones,East,16,78512
+2025-03-01,Tablet,West,48,2138400
+2025-06-19,Headphones,West,4,9304
+2025-04-01,Tablet,West,50,1229150
+2025-10-02,Laptop,South,49,1727397
+2025-06-19,Smartwatch,South,45,399915
+2025-05-26,Smartwatch,South,46,1017060
+2025-02-03,Smartwatch,East,16,172864
+2025-07-14,Smartwatch,South,2,19534
+2025-08-02,Tablet,East,6,189972
+2025-09-11,Laptop,North,11,1233639
+2025-07-29,Mobile Phone,East,46,692622
+2025-01-28,Laptop,South,50,6578400
+2025-06-02,Tablet,West,14,530824
+2025-01-28,Smartwatch,South,19,194237
+2025-08-02,Mobile Phone,North,34,455566
+2025-01-05,Headphones,East,2,3254
+2025-03-06,Headphones,East,36,106920
+2025-06-22,Tablet,East,31,1427860
+2025-04-10,Tablet,East,5,150900
+2025-01-07,Smartwatch,East,47,1155072
+2025-03-19,Mobile Phone,East,23,215648
+2025-08-12,Laptop,South,8,1011016
+2025-08-17,Smartwatch,West,18,140076
+2025-10-11,Headphones,East,23,108376
+2025-01-04,Tablet,West,11,264451
+2025-02-15,Headphones,West,34,150348
+2025-10-30,Headphones,South,40,175280
+2025-02-18,Headphones,East,50,237250
+2025-04-20,Mobile Phone,South,13,382187
+2025-04-07,Tablet,North,48,972576
+2025-04-18,Headphones,South,22,115852
+2025-01-29,Laptop,West,3,355758
+2025-07-31,Smartwatch,West,9,57726
+2025-05-17,Smartwatch,East,23,168498
+2025-09-09,Mobile Phone,West,5,74145
+2025-06-03,Smartwatch,East,36,438948
+2025-04-05,Smartwatch,South,43,380034
+2025-07-07,Headphones,North,22,37312
+2025-10-30,Laptop,South,41,4120951
+2025-09-07,Headphones,North,42,222558
+2025-07-12,Tablet,East,35,1371160
+2025-02-07,Smartwatch,East,42,223188
+2025-04-11,Laptop,West,8,741072
+2025-06-04,Headphones,East,9,20574
+2025-06-24,Laptop,West,19,2430784
+2025-03-15,Smartwatch,East,28,643664
+2025-06-18,Smartwatch,North,45,377325
+2025-10-15,Smartwatch,West,46,726064
+2025-09-30,Mobile Phone,West,11,234806
+2025-08-04,Tablet,South,16,524880
+2025-07-15,Smartwatch,East,37,328486
+2025-05-09,Headphones,East,14,94220
+2025-03-20,Smartwatch,North,16,206736
+2025-03-14,Mobile Phone,West,25,344950
+2025-02-22,Headphones,South,36,96948
+2025-02-16,Mobile Phone,South,35,831075
+2025-05-16,Tablet,North,43,1540389
+2025-05-13,Laptop,South,23,3368419
+2025-02-17,Tablet,West,43,650332
+2025-08-15,Mobile Phone,South,42,1196496
+2025-07-04,Smartwatch,South,9,137934
+2025-03-23,Headphones,South,10,21630
+2025-06-27,Tablet,South,43,664049
+2025-08-27,Tablet,West,7,326487
+2025-08-21,Smartwatch,South,25,141775
+2025-01-10,Mobile Phone,South,47,1290526
+2025-01-07,Tablet,East,30,939600
+2025-05-14,Laptop,West,7,453138
+2025-08-26,Laptop,West,15,575175
+2025-05-03,Tablet,South,13,172978
+2025-05-04,Laptop,North,44,5472852
+2025-01-22,Laptop,North,37,3007138
+2025-08-17,Mobile Phone,North,25,489750
+2025-07-24,Tablet,East,14,305634
+2025-04-11,Laptop,East,36,2783340
+2025-09-20,Mobile Phone,South,38,1019768
+2025-08-12,Tablet,East,31,639592
+2025-10-08,Smartwatch,West,15,106725
+2025-03-11,Headphones,North,27,82944
+2025-06-21,Headphones,East,19,79439
+2025-07-17,Smartwatch,East,27,608310
+2025-10-11,Smartwatch,East,17,227001
+2025-05-26,Laptop,South,33,4124175
+2025-10-04,Tablet,West,8,234128
+2025-07-10,Laptop,South,48,1699488
+2025-09-26,Tablet,North,32,998496
+2025-09-30,Smartwatch,South,5,54245
+2025-10-11,Tablet,East,20,644000
+2025-09-16,Laptop,North,9,1135188
+2025-06-17,Smartwatch,South,48,733152
+2025-02-22,Laptop,North,40,3036240
+2025-05-07,Smartwatch,West,42,226338
+2025-03-26,Laptop,North,23,2057833
+2025-03-18,Laptop,West,49,1649977
+2025-09-12,Headphones,East,44,195360
+2025-02-22,Headphones,East,40,170120
+2025-05-03,Smartwatch,North,27,468126
+2025-01-24,Mobile Phone,South,3,87606
+2025-01-12,Headphones,East,18,63792
+2025-09-28,Smartwatch,North,37,643319
+2025-10-08,Headphones,West,9,46359
+2025-04-14,Laptop,North,37,2892919
+2025-05-26,Mobile Phone,North,25,347025
+2025-05-04,Headphones,North,30,62520
+2025-03-02,Headphones,South,19,106837
+2025-10-16,Smartwatch,West,4,56980
+2025-09-15,Headphones,East,32,126112
+2025-04-30,Mobile Phone,South,30,380370
+2025-05-13,Smartwatch,North,5,61595
+2025-10-10,Tablet,West,11,354992
+2025-06-04,Headphones,South,14,90020
+2025-03-09,Mobile Phone,North,38,323950
+2025-08-13,Smartwatch,North,48,711984
+2025-02-05,Headphones,South,15,99960
+2025-02-11,Laptop,West,19,1967184
+2025-04-01,Smartwatch,North,35,284130
+2025-09-10,Mobile Phone,East,12,269832
+2025-07-19,Laptop,South,4,527856
+2025-05-31,Tablet,North,20,908640
+2025-09-06,Smartwatch,East,44,1014728
+2025-05-18,Mobile Phone,North,19,178638
+2025-08-12,Laptop,West,30,3072000
+2025-01-31,Smartwatch,East,38,650370
+2025-08-11,Headphones,East,19,54720
+2025-02-10,Headphones,North,35,119140
+2025-06-24,Laptop,West,33,2296470
+2025-05-24,Headphones,East,46,99544
+2025-04-05,Laptop,North,50,5773650
+2025-05-10,Tablet,North,45,1936215
+2025-02-25,Smartwatch,West,42,890274
+2025-08-25,Mobile Phone,North,16,171248
+2025-07-14,Laptop,West,32,2105344
+2025-09-20,Headphones,North,17,28322
+2025-03-23,Laptop,South,40,3604200
+2025-04-25,Tablet,East,3,109575
+2025-01-02,Tablet,West,45,506475
+2025-06-18,Headphones,West,15,29130
+2025-10-01,Smartwatch,South,42,1036182
+2025-04-18,Smartwatch,North,41,208567
+2025-02-04,Laptop,North,40,4980480
+2025-02-02,Smartwatch,West,20,138580
+2025-01-20,Laptop,North,24,2900784
+2025-07-03,Mobile Phone,South,5,131375
+2025-10-12,Mobile Phone,North,14,212198
+2025-01-03,Laptop,South,29,1148690
+2025-02-02,Mobile Phone,West,33,591624
+2025-02-16,Mobile Phone,North,47,828563
+2025-04-09,Laptop,North,16,1418928
+2025-01-16,Headphones,West,11,69102
+2025-04-23,Mobile Phone,South,13,291811
+2025-02-15,Tablet,West,30,463410
+2025-01-05,Laptop,North,35,2554475
+2025-07-14,Tablet,South,5,128620
+2025-04-26,Laptop,North,12,887928
+2025-04-12,Smartwatch,East,17,412369
+2025-05-07,Tablet,West,7,136801
+2025-10-02,Mobile Phone,South,35,321160
+2025-09-29,Laptop,North,7,329658
+2025-02-14,Tablet,West,15,436185
+2025-03-09,Tablet,North,15,276570
+2025-07-25,Mobile Phone,West,36,874368
+2025-10-02,Tablet,East,12,143712
+2025-09-16,Headphones,South,37,73778
+2025-10-27,Mobile Phone,South,9,157752
+2025-05-14,Smartwatch,North,32,607712
+2025-03-31,Laptop,West,39,2478333
+2025-04-14,Smartwatch,East,42,937608
+2025-04-30,Tablet,East,49,1425753
+2025-04-22,Tablet,North,1,40265
+2025-02-06,Mobile Phone,West,10,187640
+2025-05-07,Smartwatch,West,24,225024
+2025-07-06,Mobile Phone,East,45,377460
+2025-08-18,Tablet,South,27,523665
+2025-02-09,Smartwatch,South,43,417444
+2025-07-19,Tablet,South,8,158304
+2025-07-30,Mobile Phone,East,7,94521
+2025-03-21,Laptop,East,38,2664940
+2025-10-25,Smartwatch,West,50,1100350
+2025-01-08,Tablet,East,44,1881880
+2025-05-02,Headphones,North,22,64636
+2025-07-05,Tablet,North,1,17784
+2025-09-17,Laptop,North,6,346944
+2025-08-04,Mobile Phone,South,29,293074
+2025-05-15,Laptop,North,39,3954171
+2025-04-11,Smartwatch,West,13,272051
+2025-01-29,Laptop,East,48,5058912
+2025-02-21,Headphones,West,34,194106
+2025-05-10,Tablet,East,9,374256
+2025-05-19,Headphones,East,15,100965
+2025-02-28,Smartwatch,East,37,276797
+2025-04-15,Mobile Phone,South,7,179004
+2025-01-06,Headphones,North,46,310546
+2025-09-07,Tablet,East,44,822316
+2025-08-28,Laptop,North,40,2171880
+2025-10-24,Smartwatch,West,19,450243
+2025-07-29,Laptop,North,8,423728
+2025-08-07,Headphones,West,40,203360
+2025-09-12,Tablet,West,30,310200
+2025-03-28,Laptop,South,2,289836
+2025-02-04,Laptop,West,45,5484060
+2025-06-17,Tablet,East,35,1712060
+2025-10-30,Headphones,East,10,69130
+2025-05-04,Headphones,West,31,181257
+2025-06-18,Headphones,North,22,126984
+2025-10-19,Laptop,East,35,4500860
+2025-01-25,Tablet,East,28,705040
+2025-03-24,Headphones,South,44,224752
+2025-07-15,Mobile Phone,East,24,358728
+2025-08-20,Tablet,South,45,1659915
+2025-09-30,Laptop,East,45,3131550
+2025-09-29,Headphones,South,41,147641
+2025-08-13,Mobile Phone,South,37,599733
+2025-08-23,Mobile Phone,West,19,453663
+2025-06-15,Mobile Phone,South,42,855582
+2025-02-28,Laptop,West,30,2422350
+2025-05-31,Headphones,East,7,18942
+2025-09-26,Headphones,East,37,62493
+2025-04-02,Tablet,East,9,400122
+2025-07-08,Mobile Phone,East,36,618336
+2025-06-25,Headphones,South,41,131405
+2025-01-21,Tablet,West,39,603369
+2025-10-21,Smartwatch,East,40,518760
+2025-07-09,Laptop,South,35,2337475
+2025-07-20,Smartwatch,North,8,72752
+2025-08-31,Smartwatch,West,36,223776
+2025-07-26,Smartwatch,West,36,347868
+2025-03-04,Headphones,North,5,31560
+2025-06-22,Headphones,East,14,32480
+2025-08-03,Mobile Phone,North,30,659580
+2025-06-25,Laptop,West,9,673758
+2025-10-22,Headphones,North,35,163170
+2025-05-09,Headphones,East,19,81890
+2025-04-05,Tablet,North,12,545544
+2025-05-11,Laptop,West,29,2814537
+2025-02-09,Tablet,West,34,1179868
+2025-02-09,Laptop,West,29,3425219
+2025-03-28,Laptop,East,23,2735298
+2025-02-28,Tablet,West,27,271512
+2025-05-10,Headphones,North,9,18900
+2025-04-21,Laptop,South,40,5899600
+2025-05-16,Smartwatch,East,27,148770
+2025-02-13,Headphones,East,47,215542
+2025-08-15,Tablet,East,24,815112
+2025-02-21,Laptop,North,5,268680
+2025-03-05,Mobile Phone,West,27,329697
+2025-07-12,Tablet,South,22,795982
+2025-06-08,Mobile Phone,South,5,63100
+2025-01-04,Tablet,East,33,596970
+2025-01-08,Mobile Phone,South,25,488125
+2025-02-28,Headphones,West,5,20090
+2025-01-29,Tablet,North,46,1032838
+2025-07-16,Headphones,North,2,6520
+2025-06-01,Laptop,North,17,1045585
+2025-08-27,Smartwatch,North,17,402934
+2025-01-07,Tablet,West,23,1029687
+2025-10-24,Laptop,North,16,1640192
+2025-06-17,Mobile Phone,South,11,170500
+2025-07-19,Laptop,South,36,4775328
+2025-08-11,Tablet,South,11,171149
+2025-09-03,Smartwatch,South,22,393602
+2025-09-12,Headphones,East,27,79245
+2025-07-28,Tablet,West,21,889581
+2025-08-19,Mobile Phone,East,46,1062922
+2025-05-08,Smartwatch,North,16,206912
+2025-10-22,Smartwatch,North,25,195350
+2025-10-18,Tablet,West,26,655928
+2025-07-31,Laptop,East,25,3575350
+2025-10-10,Mobile Phone,North,29,342809
+2025-05-16,Smartwatch,East,38,522842
+2025-03-11,Mobile Phone,South,36,624672
+2025-10-13,Headphones,West,9,25983
+2025-10-31,Mobile Phone,South,15,225045
+2025-02-23,Laptop,East,46,5483154
+2025-05-23,Laptop,West,7,745458
+2025-10-22,Mobile Phone,East,46,1337220
+2025-07-14,Headphones,West,28,48076
+2025-03-07,Tablet,North,32,939104
+2025-09-03,Headphones,West,20,67500
+2025-09-09,Laptop,West,19,2613792
+2025-03-24,Laptop,East,45,6301710
+2025-05-04,Laptop,North,37,3831017
+2025-10-24,Mobile Phone,West,3,43827
+2025-01-26,Laptop,East,2,295300
+2025-08-17,Tablet,East,28,570500
+2025-09-17,Smartwatch,East,41,646365
+2025-05-22,Tablet,West,8,379792
+2025-10-13,Tablet,East,12,151428
+2025-04-13,Smartwatch,West,10,150220
+2025-08-21,Mobile Phone,South,33,391413
+2025-01-13,Tablet,North,12,265716
+2025-04-05,Mobile Phone,West,5,112380
+2025-04-28,Smartwatch,West,38,447906
+2025-09-27,Smartwatch,East,19,392350
+2025-08-14,Headphones,East,42,114492
+2025-01-18,Headphones,West,28,118664
+2025-09-23,Tablet,South,22,1078726
+2025-09-29,Smartwatch,South,10,156060
+2025-08-24,Mobile Phone,East,14,204288
+2025-04-29,Mobile Phone,South,6,131346
+2025-04-12,Smartwatch,North,8,191376
+2025-09-03,Tablet,West,42,1582476
+2025-08-14,Headphones,South,50,123650
+2025-01-13,Tablet,West,47,1277507
+2025-04-16,Tablet,West,10,283670
+2025-01-07,Laptop,South,18,568656
+2025-05-29,Smartwatch,East,42,376404
+2025-08-30,Headphones,East,5,26570
+2025-04-21,Smartwatch,West,37,275724
+2025-02-07,Laptop,East,45,6132465
+2025-08-15,Smartwatch,West,8,161400
+2025-09-13,Mobile Phone,East,46,929062
+2025-08-22,Tablet,South,32,805664
+2025-09-13,Laptop,North,34,2672366
+2025-02-21,Tablet,North,39,854139
+2025-07-06,Mobile Phone,West,47,1197513
+2025-01-21,Laptop,South,8,908568
+2025-09-10,Headphones,North,31,66619
+2025-04-15,Smartwatch,South,45,316395
+2025-07-30,Mobile Phone,East,6,59106
+2025-01-31,Tablet,North,44,689920
+2025-07-01,Smartwatch,West,47,427183
+2025-03-29,Headphones,North,48,248064
+2025-07-21,Smartwatch,South,22,388696
+2025-03-14,Headphones,East,48,296064
+2025-09-16,Laptop,North,30,2009400
+2025-07-02,Smartwatch,North,46,756976
+2025-10-26,Laptop,North,49,3215429
+2025-09-16,Headphones,West,6,11760
+2025-09-08,Tablet,North,26,667758
+2025-07-06,Headphones,North,41,79253
+2025-10-09,Laptop,West,39,2888301
+2025-08-31,Smartwatch,South,39,735501
+2025-01-16,Smartwatch,North,41,951159
+2025-05-21,Smartwatch,West,43,823020
+2025-01-31,Smartwatch,West,6,76998
+2025-06-10,Headphones,West,37,171162
+2025-07-28,Headphones,East,27,171018
+2025-01-14,Headphones,North,30,183330
+2025-01-12,Laptop,South,45,3629700
+2025-01-24,Mobile Phone,East,44,506132
+2025-02-14,Tablet,North,41,1785386
+2025-10-24,Laptop,North,39,2953704
+2025-05-04,Laptop,West,45,3172230
+2025-05-23,Smartwatch,South,6,136998
+2025-05-05,Mobile Phone,North,48,1370448
+2025-07-22,Laptop,West,9,553770
+2025-01-10,Tablet,South,3,81801
+2025-03-12,Tablet,North,22,419034
+2025-02-28,Smartwatch,East,5,83280
+2025-06-04,Smartwatch,South,41,924878
+2025-01-01,Headphones,West,7,42770
+2025-09-01,Headphones,North,39,239811
+2025-10-19,Laptop,East,14,1307488
+2025-10-09,Mobile Phone,West,33,982872
+2025-04-14,Laptop,West,16,1441200
+2025-02-12,Mobile Phone,South,38,960868
+2025-04-23,Mobile Phone,East,16,266512
+2025-10-17,Laptop,South,47,2849516
+2025-10-12,Mobile Phone,East,48,1399680
+2025-08-04,Laptop,East,7,732627
+2025-10-29,Mobile Phone,North,10,220640
+2025-03-19,Mobile Phone,South,42,542472
+2025-02-08,Mobile Phone,South,50,1174050
+2025-07-05,Mobile Phone,West,33,952347
+2025-03-10,Laptop,South,21,1104558
+2025-03-22,Tablet,East,26,556972
+2025-06-24,Tablet,North,27,289710
+2025-04-02,Smartwatch,South,28,670124
+2025-07-14,Smartwatch,South,10,82180
+2025-07-26,Laptop,West,25,1986550
+2025-05-02,Laptop,South,35,3774855
+2025-07-09,Headphones,South,16,107872
+2025-05-28,Laptop,North,17,1711509
+2025-07-30,Headphones,North,39,106470
+2025-06-04,Tablet,East,24,884520
+2025-03-11,Smartwatch,East,23,403535
+2025-10-12,Laptop,West,19,1761148
+2025-03-03,Headphones,East,1,3318
+2025-04-25,Mobile Phone,South,23,376579
+2025-02-05,Mobile Phone,West,49,1386308
+2025-08-17,Tablet,South,5,104925
+2025-06-02,Mobile Phone,North,16,392528
+2025-09-18,Mobile Phone,East,50,437450
+2025-01-28,Laptop,West,22,1469028
+2025-05-19,Smartwatch,South,6,74274
+2025-07-25,Smartwatch,North,6,121782
+2025-04-16,Headphones,South,21,48909
+2025-08-02,Headphones,East,20,42200
+2025-02-25,Tablet,North,42,1220016
+2025-06-27,Laptop,East,48,2232000
+2025-05-16,Mobile Phone,West,27,631206
+2025-06-14,Headphones,West,34,235858
+2025-01-10,Tablet,North,2,38274
+2025-04-18,Laptop,West,7,584843
+2025-01-18,Headphones,North,11,37389
+2025-01-04,Laptop,South,6,787806
+2025-04-21,Mobile Phone,East,36,379908
+2025-07-26,Laptop,East,35,2343075
+2025-04-05,Headphones,South,33,229020
+2025-04-12,Mobile Phone,South,4,79584
+2025-05-04,Headphones,West,3,9627
+2025-04-21,Tablet,North,40,1379040

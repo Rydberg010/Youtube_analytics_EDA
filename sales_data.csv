@@ -1,0 +1,31 @@
+Date,Product,Region,Sales,Revenue
+2025-01-01,Mobile Phone,North,15,150000
+2025-01-01,Laptop,South,8,320000
+2025-01-01,Headphones,East,25,50000
+2025-01-02,Mobile Phone,West,12,120000
+2025-01-02,Laptop,North,5,200000
+2025-01-02,Smartwatch,South,18,90000
+2025-01-03,Mobile Phone,East,20,200000
+2025-01-03,Laptop,West,7,280000
+2025-01-03,Headphones,North,30,60000
+2025-01-04,Smartwatch,East,15,75000
+2025-01-04,Mobile Phone,South,10,100000
+2025-01-04,Laptop,North,6,240000
+2025-01-05,Headphones,West,22,44000
+2025-01-05,Smartwatch,North,14,70000
+2025-01-05,Mobile Phone,East,18,180000
+2025-01-06,Laptop,South,9,360000
+2025-01-06,Headphones,North,28,56000
+2025-01-06,Smartwatch,West,16,80000
+2025-01-07,Mobile Phone,North,13,130000
+2025-01-07,Laptop,East,4,160000
+2025-01-07,Headphones,South,26,52000
+2025-01-08,Smartwatch,East,12,60000
+2025-01-08,Mobile Phone,West,11,110000
+2025-01-08,Laptop,South,10,400000
+2025-01-09,Headphones,North,24,48000
+2025-01-09,Smartwatch,South,17,85000
+2025-01-09,Mobile Phone,East,19,190000
+2025-01-10,Laptop,West,6,240000
+2025-01-10,Headphones,East,27,54000
+2025-01-10,Smartwatch,North,13,65000
